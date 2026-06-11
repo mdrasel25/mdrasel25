@@ -1,7 +1,3 @@
-![I am a Web Developer and Android App Developer.](https://media.licdn.com/dms/image/D5616AQElMwi_Pv9R1Q/profile-displaybackgroundimage-shrink_350_1400/0/1700819311461?e=1706140800&v=beta&t=1QvlOG4Z7Ly9CHGq5u77D-pzhT0j1J2HlD2BLnrHd_E)
-
-
-
 ### Hi there 👋, MD Rasel
 #### I am a Web Developer and Android App Developer.
 
